@@ -1,0 +1,26 @@
+  div {
+      background-color: #7f1414;
+      color: blue;
+  }
+
+  table {
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif border-collapse;
+      width: 65%;
+      float: right
+  }
+
+  td,
+  th {
+      text-align: left;
+      padding: 5px;
+  }
+
+  tr:nth-child(even) {
+      background-color: #172564;
+      color: white;
+  }
+
+  tr:hover {
+      background-color: #a00e0e;
+      color: white;
+  }

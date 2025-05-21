@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>Bôa</title>
+</head>
+<body>
+
+<h1 style="font-size:65px;">Bôa</h1>
+<p> Bôa (stylized bôa) are an English alternative rock band formed in London in 1993 by drummer Ed Herten, keyboardist Paul Turrell, and guitarist/vocalist Steve Rodgers. The band have progressed from playing funk to rock over the years, as bassist Alex Caird and multi-instrumentalist Ben Henderson joined, and Jasmine Rodgers was added as vocalist.</p>
+
+<img src="boaboa.jpg" alt="boa picture" width="500" height="315">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lqkm3R63CG8?si=Yv5rBJBh4614ZePl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img src="twilight album cover.jpg" alt="Bôa Twilight album Cover" width="315" height="315">
+
+<hr>
+
+<h2 style="font-size:35px;">Members</h2>
+
+<h3>Current</h3>
+
+<p>Jasmine Rodgers – vocals <i>(1993–present)</i>, guitars <i>(2023–present)</i><br>
+Alex Caird – bass <i>(1993–present)</i><br>
+Lee Sullivan – drums, percussion, keyboards <i>(1994–present)</i>
+<br>
+<br>
+<h3>Past</h3>
+
+Steve Rodgers – guitars <i>(1993–2005)</i> 
+<br>
+Ben Henderson – guitars, saxophone, percussion <i>(1993–2000)</i>
+<br>
+Paul Turrell – keyboards, percussion, guitars <i>(1993–2001; died 2017)</i>
+<br>
+Ed Herten – drums, percussion <i>(1993–1994)</i></p>
+
+</body>
+</html>
